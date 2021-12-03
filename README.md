@@ -6,6 +6,11 @@
 
 **- 🌱 I’m currently learning new stuffs and how to play cricket  ...
 
+**Languages: Python, SQL
+
+**Data Tools:  Jupyter notebook, Tableau, Power BI, Github, , Excel,Google sheet, Power BI, GitHub PostgreSQL, Google colab
+
+
 **- 📫 How to reach me**
 
   **Twitter: The_Dabalo
