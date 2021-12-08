@@ -21,7 +21,7 @@
   
   **Linkedin: Taiwo Balogun**
   
-  **I'm always available to chill with you with a glass of coffee**  
+  **I'm always available to chill with you with a glass of coffee*  
 
 
 
