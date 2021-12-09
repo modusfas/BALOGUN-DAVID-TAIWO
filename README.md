@@ -8,7 +8,7 @@
 
 **Languages: Python, SQL
 
-**Data Tools:  Jupyter notebook, Tableau, Power BI, Github, Excel, Google sheet, Power BI, PostgreSQL, Google colab
+**Data Tools:  Jupyter notebook, Tableau, Power BI, Github, Excel, Google sheet, Power BI, PostgreSQL, Google colab, Google Data studio 
 
 
 **- 📫 How to reach me**
