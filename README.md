@@ -1,7 +1,7 @@
 ### Hi there 👋
 **- 👋 Hi, I’m Balogun David Taiwo, a graduate of Accounting from University of Lagos. I am a data analyst / data scientist who is passionate about making data driven decison.   
 
-**I have experience working with start ups, Fintech, health services 
+**I have experience working with Fintech, health services 
 
 
 **- 🌱 I’m currently learning new stuffs and how to play cricket  ...
